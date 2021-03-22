@@ -204,7 +204,7 @@
       "addB_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon1(b).mcpack",
       "addR_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon1(r).mcpack",
       "view_add":"https://raw.githubusercontent.com/bro-cell/LittNight/main/ad1.png",
-      "des_add":"https://raw.githubusercontent.com/bro-cell/LittNight/main/adon.html"
+      "des_add":"https://raw.githubusercontent.com/bro-cell/LittNight/main/ad1.png"
     },
     {
       "id":2,
@@ -213,7 +213,7 @@
       "addB_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2(b).mcpack",
       "addR_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2(r).mcpack",
       "view_add":"https://raw.githubusercontent.com/bro-cell/LittNight/main/ad2.png",
-      "des_add":"https://raw.githubusercontent.com/bro-cell/LittNight/main/adon.html"
+      "des_add":"https://raw.githubusercontent.com/bro-cell/LittNight/main/ad2.png"
     },
 	{
 			"id": 3,
@@ -222,7 +222,7 @@
 			"addB_url": "https://ia801505.us.archive.org/19/items/mappig1/Piggy%20Addon%20B.mcpack",
 			"addR_url": "https://ia801505.us.archive.org/19/items/mappig1/Piggy%20Addon%20R.mcpack",
 			"view_add": "https://my.mcpedl.com/storage/addons/3364/images/piggy-addon_3.png",
-			"des_add": "https://ia601501.us.archive.org/17/items/piggy1/pigimod.html"
+			"des_add": "https://my.mcpedl.com/storage/addons/3364/images/piggy-addon_3.png"
 		},
 		{
 			"id": 4,
@@ -356,21 +356,21 @@
       "nama_map":"MAP Little Nightmares",
       "map_url":"https://raw.githubusercontent.com/bro-cell/LittNight/main/Little%20Nightmares%20GUI%20v2.zip",
       "view_map":"https://my.mcpedl.com/storage/texturepacks/3302/images/little-nightmares-gui_2.png",
-      "des_map":"https://raw.githubusercontent.com/bro-cell/LittNight/main/map.html"
+      "des_map":"https://my.mcpedl.com/storage/texturepacks/3302/images/little-nightmares-gui_2.png"
     },
 	{
 			"id": 2,
 			"nama_map": "Map Piggy Infection",
 			"map_url": "https://raw.githubusercontent.com/bro-cell/piggymod/main/The%20Piggy%20Chapter%201.zip",
 			"view_map": "https://my.mcpedl.com/storage/worlds/10302/images/grc-studio-presents-piggy_2.png",
-			"des_map": "https://ia601501.us.archive.org/17/items/piggy1/piggy%20infection%20map1.html"
+			"des_map": "https://my.mcpedl.com/storage/worlds/10302/images/grc-studio-presents-piggy_2.png"
 		},
 		{
 			"id": 3,
 			"nama_map": "Game Piggy Mod Infection",
 			"map_url": "https://ia601501.us.archive.org/17/items/piggy1/Piggyhorror.zip",
 			"view_map": "https://mcpedl.com/wp-content/uploads/2020/06/piggy-in-minecraft_1-520x245.png",
-			"des_map": "https://ia601501.us.archive.org/17/items/piggy1/game%20piggy%20mod.html"
+			"des_map": "https://mcpedl.com/wp-content/uploads/2020/06/piggy-in-minecraft_1-520x245.png"
 		},
 		{
 			"id": 4,
